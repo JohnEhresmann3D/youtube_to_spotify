@@ -1,0 +1,3 @@
+spotify_user_id = 	"1238141207"
+user_password = "uWiBf5RFI6c0"
+spotify_token = "BQAvWLDk4mJGWvGgP3pNX8ZilYIDzDfywhpH46yLOzQRexDWcZWCukbMEoJ96LFdjHwNzMcpul2GJaWYIEuz1tH9v_2gArHMZRSA-LU2p6Nan8v1CwfRfep0ECZrpYISPWdyC_qCqgk"
